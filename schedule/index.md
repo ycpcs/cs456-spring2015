@@ -20,6 +20,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 3   | IP - Copyrights | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *Oracle v. Google: Are APIs Copyrightable?*, Pamela Samuelson (ACM - 11/12) <br /> *Statutory Damages As a Threat to Innovation*, Pamela Samuelson (ACM - 7/13) |
 > Feb 5   | IP - Patents    | *Is Software Patentable?*, Pamela Samuelson (ACM - 11/13) <br /> *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *The Troll Under the Bridge*, Brian M. Gaff (IEEE - 7/13) <br /> *Supreme Court IP Update*, Brian M. Gaff (IEEE - 7/14) |
 > Feb 17  | Privacy - I     | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Data Brokers Are Watching You*, Gary Anthes (ACM - 1/15) <br/> *Big Data's End Run Around Procedural Privacy Protections*, Solon Barocas and Helen Nissenbaum (ACM - 11/14) | 
+> Feb 24  | Privacy - II    | *A Right to Be Forgotten*, Lee A. Bygrave (ACM - 1/15) <br /> *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) | 
 
 
 
