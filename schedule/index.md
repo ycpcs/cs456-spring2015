@@ -22,7 +22,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 17  | Privacy - I     | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Data Brokers Are Watching You*, Gary Anthes (ACM - 1/15) <br/> *Big Data's End Run Around Procedural Privacy Protections*, Solon Barocas and Helen Nissenbaum (ACM - 11/14) | 
 > Feb 24  | Privacy - II    | *A Right to Be Forgotten*, Lee A. Bygrave (ACM - 1/15) <br /> *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) | 
 > Mar 10  | Security - I    | *Security or Privacy? A Matter of Perspective*, George Hurlburt, Irena Bojanova, Ann Sobel, and Keesha Crosby (IEEE - 11/14) <br /> *Risky Business*, Leah Hoffman (ACM - 11/11) <br /> *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14)
-> Mar 12  | Security - II   | *Preventing Heartbleed*, David A. Wheeler (11/14) <br /> *Security Collapse in the HTTPS Market*, Axel Arnbak, Hadi Asghari, Michel Van Eeten, and Nico Van Eijk (ACM - 10/14) <br /> *Security Outlook: Six Cyber Game Changers for the Next 15 Years*, Alexander Kott, Ananthram Swami, and Patrick McDaniel (IEEE - 12/14)|  
+> Mar 12  | Security - II   | *Preventing Heartbleed*, David A. Wheeler (IEEE - 11/14) <br /> *Security Collapse in the HTTPS Market*, Axel Arnbak, Hadi Asghari, Michel Van Eeten, and Nico Van Eijk (ACM - 10/14) <br /> *Security Outlook: Six Cyber Game Changers for the Next 15 Years*, Alexander Kott, Ananthram Swami, and Patrick McDaniel (IEEE - 12/14)|  
 
 
 
