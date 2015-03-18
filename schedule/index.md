@@ -24,6 +24,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 10  | Security - I    | *Security or Privacy? A Matter of Perspective*, George Hurlburt, Irena Bojanova, Ann Sobel, and Keesha Crosby (IEEE - 11/14) <br /> *Risky Business*, Leah Hoffman (ACM - 11/11) <br /> *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14)
 > Mar 12  | Security - II   | *Preventing Heartbleed*, David A. Wheeler (IEEE - 11/14) <br /> *Security Collapse in the HTTPS Market*, Axel Arnbak, Hadi Asghari, Michel Van Eeten, and Nico Van Eijk (ACM - 10/14) <br /> *Security Outlook: Six Cyber Game Changers for the Next 15 Years*, Alexander Kott, Ananthram Swami, and Patrick McDaniel (IEEE - 12/14)|  
 > Mar 17  | Government      | [Big Brother? US linked to new wave of censorship, surveillance on web](http://www.foxnews.com/tech/2013/02/27/special-report-surveillance-and-censorship-america/) <br /> *Overt Censorship: A Fatal Mistake?*, Jean-Loup Richet (ACM - 8/13) <br /> *Moral Hazards, Negative Externalities, and the Surveillance Economy*, Hal Berghel (IEEE - 2/14)|  
+> Mar 24  | Internet        | *Living in a Digital World*, Samuel Greengard (ACM - 10/11) <br /> *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)|  
 
 
 
