@@ -13,6 +13,7 @@ All information about the course will be posted here.
 * [Schedule](schedule/index.html)
 * [Resources](resources.html)
 * [Syllabus](syllabus.html)
+* [Final Report](finalreport.html)
 
 ## News
 
@@ -24,3 +25,6 @@ All information about the course will be posted here.
 * **Mar 26** - Exam 1b Discussion
 * **Mar 31 - Exam 1b Due**
 * **Apr 2 - NO CLASS, EASTER BREAK**
+* **May 5** - Exam 2 Discussion
+* **May 7 - Exam 2 Due**
+* **May 13 - Final Report Due**
