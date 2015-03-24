@@ -17,3 +17,10 @@ All information about the course will be posted here.
 ## News
 
 * **Jan 22** - Welcome back!
+* **Feb 10** - Exam 1a Discussion
+* **Feb 12 - Exam 1a Due**
+* **Feb 26 - Topics Due**
+* **Mar 3,5 - NO CLASS, WINTER BREAK**
+* **Mar 26** - Exam 1b Discussion
+* **Mar 31 - Exam 1b Due**
+* **Apr 2 - NO CLASS, EASTER BREAK**
